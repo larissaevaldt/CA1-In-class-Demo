@@ -59,11 +59,11 @@ router.post('/post/json', function(req, res) {
   function appendJSON(obj) {
     console.log(obj);
     // Function to read in XML file, convert it to JSON, add a new object and write back to XML file
-    xmlFileToJs('PaddysCafe.xml', function(err, result) {
+    xmlFileToJs('Movies.xml', function(err, result) {
       if (err) throw (err);
-      result.cafemenu.section[obj.sec_n].entree.push({'item': obj.item, 'price': obj.price});
+      result.movies_menu.section[obj.sec_n].movie.push({'title': obj.title, 'year': obj.year, 'duration': obj.duration, 'genre': obj.genre, 'director': obj.director, 'stars': obj.stars, 'rating': obj.rating, 'price': obj.price});
       console.log(result);
-      jsToXmlFile('PaddysCafe.xml', result, function(err) {
+      jsToXmlFile('Movies.xml', result, function(err) {
         if (err) console.log(err);
       })
     })
