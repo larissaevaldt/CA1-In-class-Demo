@@ -40,8 +40,8 @@ router.get('/get/html', function(req, res) {
 
     res.writeHead(200, {'Content-Type': 'text/html'});
 
-    var xml = fs.readFileSync('PaddysCafe.xml', 'utf8');
-    var xsl = fs.readFileSync('PaddysCafe.xsl', 'utf8');
+    var xml = fs.readFileSync('Movies.xml', 'utf8');
+    var xsl = fs.readFileSync('Movies.xsl', 'utf8');
     var doc = xmlParse(xml);
     var stylesheet = xmlParse(xsl);
 

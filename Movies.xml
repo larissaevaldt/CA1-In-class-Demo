@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movies_menu>
+	<section name="DVD/Blu-ray Releases">
+		<movie>
+	      <title>Where'd you go, Bernadette?</title>
+	      <year>2019</year>
+	      <duration>109 min</duration>
+	      <genre>Comedy, Drama, Mystery</genre>
+	      <director>Richard Linklater</director>
+	      <stars>Billy Crudup, Cate Blanchett, Judy Greer, Kristen Wiig</stars>
+	      <rating>6,5</rating>
+	      <price>19.10</price>
+	    </movie>
+		<movie>
+	      <title>Official Secrets</title>
+	      <year>2019</year>
+	      <duration>112 min</duration>
+	      <genre>Biography, Drama, Romance</genre>
+	      <director>Gavin Hood</director>
+	      <stars>Keira Knightley, Matthew Goode, Matt Smith, Katherine Kelly</stars>
+	      <rating>7,3</rating>
+	      <price>9.99</price>
+	    </movie>
+	 	<movie>
+	       <title>Don't let go</title>
+	       <year>2019</year>
+	       <duration>103 min</duration>
+	       <genre>Drama, Horror, Mystery</genre>
+	       <director>Jacob Estes</director>
+	       <stars>Alfred Molina, Storm Reid, David Oyelowo, Mykelti Williamson</stars>
+	       <rating>5,9</rating>
+	       <price>18.79</price>
+	     </movie>
+		<movie>
+	       <title>Good Boys</title>
+	       <year>2019</year>
+	       <duration>90 min</duration>
+	       <genre>Adventure, Comedy</genre>
+	       <director>Gene Stupnitsky</director>
+	       <stars>Jacob Tremblay, Keith L. Williams, Brady Noon, Molly Gordon</stars>
+	       <rating>6,7</rating>
+	       <price>9.99</price>
+	    </movie>    		         	
+	</section>
+	<section name="Top Rated Movies">
+		<movie>
+	      <title>The Shawshank Redemption</title>
+	      <year>1994</year>
+	      <duration>2h 22 min</duration>
+	      <genre>Drama</genre>
+	      <director>Frank Darabont</director>
+	      <stars>Tim Robbins, Morgan Freeman, Bob Gunton</stars>
+	      <rating>9,3</rating>
+	      <price>4.28</price>
+	    </movie>
+		<movie>
+	      <title>The Godfather</title>
+	      <year>1972</year>
+	      <duration>2 h 55min</duration>
+	      <genre>Crime, Drama</genre>
+	      <director>Francis Ford Coppola</director>
+	      <stars>Marlon Brando, Al Pacino, James Caan</stars>
+	      <rating>9,2</rating>
+	      <price>7.99</price>
+	    </movie>
+	 	<movie>
+	       <title>The Godfather: Part II</title>
+	       <year>1974</year>
+	       <duration>3 h 22 min</duration>
+	       <genre>Crime, Drama</genre>
+	       <director>Francis Ford Coppola</director>
+	       <stars>Al Pacino, Robert De Niro, Robert Duvall </stars>
+	       <rating>9,0</rating>
+	       <price>3.99</price>
+	     </movie>
+		<movie>
+	       <title>The Dark Knight</title>
+	       <year>2008</year>
+	       <duration>2h 32 min</duration>
+	       <genre>Action, Crime, Drama</genre>
+	       <director>Christopher Nolan</director>
+	       <stars>Christian Bale, Heath Ledger, Aaron Eckhart</stars>
+	       <rating>9,0</rating>
+	       <price>4.78</price>
+	    </movie>
+	    <movie>
+	       <title>The Lord of the Rings: The Return of the King</title>
+	       <year>2003</year>
+	       <duration>3h 21 min</duration>
+	       <genre>Adventure, Drama, Fantasy</genre>
+	       <director>Peter Jackson</director>
+	       <stars>Elijah Wood, Viggo Mortensen, Ian McKellen</stars>
+	       <rating>8,9</rating>
+	       <price>7.61</price>
+	    </movie>
+	    <movie>
+	       <title>Pulp Fiction</title>
+	       <year>1994</year>
+	       <duration>2h 34 min</duration>
+	       <genre>Crime, Drama </genre>
+	       <director>Quentin Tarantino</director>
+	       <stars>John Travolta, Uma Thurman, Samuel L. Jackson</stars>
+	       <rating>8,9</rating>
+	       <price>4.75</price>
+	    </movie>
+	    <movie>
+	       <title>Fight Club</title>
+	       <year>1999</year>
+	       <duration>2h 19 min</duration>
+	       <genre>Drama </genre>
+	       <director>David Fincher</director>
+	       <stars>Brad Pitt, Edward Norton, Meat Loaf</stars>
+	       <rating>8,8</rating>
+	       <price>7.99</price>
+	    </movie>    		      		   		      		      		         		
+	</section>
+	<section name="Coming Soon">
+		<movie>
+	       <title>Playmobil: The movie</title>
+	       <year>2019</year>
+	       <duration>99 min</duration>
+	       <genre>Animation, Adventure, Comedy, Family, Fantasy, Musical</genre>
+	       <director>Lino DiSalvo</director>
+	       <stars>Anya Taylor-Joy, Gabriel Bateman, Jim Gaffigan, Daniel Radcliffe</stars>
+	       <rating>0</rating>
+	       <price>10.99</price>
+	    </movie>    			
+	</section>
+</movies_menu>
