@@ -59,5 +59,13 @@
                         </xsl:for-each>
                     </tbody>
                 </table><br/>
+                <form class="indent">
+                   <form class="indent">
+                    <p>
+                        <input type="button" name="btnCalcBill" value="Calculate Bill" id="calcBill" />
+				Total: €
+				<input type="text" name="txtBillAmt" /><input type="checkbox" name="cbOpts" value="isVeg" id="showVeg" /><label for="showVeg">Highlight Vegetarian Meals</label></p>
+                </form>
+                </form>
     </xsl:template>
 </xsl:stylesheet>

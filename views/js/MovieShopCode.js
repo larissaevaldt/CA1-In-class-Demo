@@ -20,7 +20,7 @@ function calculateBill(idMenuTable) {
 			var oTR = getParentTag(aCBTags[i],'TR');
 			
 										// retrieve the price from the price column, which is the third column in the table
-			var oTDPrice = oTR.getElementsByTagName('TD')[2];
+			var oTDPrice = oTR.getElementsByTagName('TD')[9];
 										// the first child text node of the column contains the price
 			fBillTotal += parseFloat(oTDPrice.firstChild.data);
 		};
