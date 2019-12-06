@@ -18,7 +18,7 @@
 <body>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #afdbcd;" static-top">
+  <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #afdbcd;" static-top>
     <div class="container">
       <a class="navbar-brand" href="#"> 
         <img src="icon.png" width="30" height="30" alt="">
@@ -92,8 +92,10 @@
                 <div class="form-group">
                     <input class="form-control" type="text" name="price" placeholder="Price" required>
                 </div>
-                <button type="submit" class="btn btn-success">Submit</button>
+                <button type="submit" class="btn btn-block btn-success">Submit</button>
             </form>
+            <button id="delete" class="btn btn-block btn-danger">Delete</button>
+            <p class="text-muted">To delete an entree, click the required row first</p>
         </div>
     </div>
   </div>
@@ -106,9 +108,8 @@
 
   <!-- Bootstrap core JavaScript -->
   <script src="jquery/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/MovieShopCode.js"></script>
   <script src="jquery/table.js"></script>
+  <script src="js/bootstrap.min.js"></script>
 </body>
 
 </html>

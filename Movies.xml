@@ -2,26 +2,6 @@
 <movies_menu>
   <section name="DVD/Blu-ray Releases">
     <movie>
-      <title>Where'd you go, Bernadette?</title>
-      <year>2019</year>
-      <duration>109 min</duration>
-      <genre>Comedy, Drama, Mystery</genre>
-      <director>Richard Linklater</director>
-      <stars>Billy Crudup, Cate Blanchett, Judy Greer, Kristen Wiig</stars>
-      <rating>6,5</rating>
-      <price>19.10</price>
-    </movie>
-    <movie>
-      <title>Official Secrets</title>
-      <year>2019</year>
-      <duration>112 min</duration>
-      <genre>Biography, Drama, Romance</genre>
-      <director>Gavin Hood</director>
-      <stars>Keira Knightley, Matthew Goode, Matt Smith, Katherine Kelly</stars>
-      <rating>7,3</rating>
-      <price>9.99</price>
-    </movie>
-    <movie>
       <title>Don't let go</title>
       <year>2019</year>
       <duration>103 min</duration>
