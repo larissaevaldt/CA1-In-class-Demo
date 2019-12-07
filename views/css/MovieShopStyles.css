@@ -5,6 +5,8 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-image: url("background.jpg");
+
 }
 .footer {
   position: absolute;
@@ -18,8 +20,9 @@ body {
 
 table, th, td {
      border-collapse: collapse;
-     border: 1px solid black;
+     border: 1px solid #ddd;
      text-align: center;
+     background-color: rgb(222, 221, 221, 0.4);
 }
 
  table {
@@ -37,8 +40,9 @@ table, th, td {
  th {
      font-weight: bold;
 }
+#movieTable tr:hover {background-color: #ddd;}
 
 .selected {
-    background-color: #a7b0af;
+    background-color: black;
     color: #FFF;
 }
