@@ -1,3 +1,6 @@
+//code written by Mikhail in class, taken from https://github.com/mikhail-cct/CA1-In-class-Demo.git 
+//and adapted to suit my project
+
 // returns a number that represents the sum of all the selected menu
 // item prices.
 function calculateBill(idMenuTable) {
@@ -30,3 +33,12 @@ function getParentTag(oNode, sParentType) {
     };
     return oParent;
 };
+
+function ConfirmDelete()
+{
+  var x = confirm("Are you sure you want to delete?");
+  if (x)
+      return true;
+  else
+    return false;
+}

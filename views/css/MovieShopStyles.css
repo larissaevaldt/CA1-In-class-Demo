@@ -1,9 +1,15 @@
+/*
+code written by Mikhail in class, taken from https://github.com/mikhail-cct/CA1-In-class-Demo.git 
+and adapted to suit my project
+
+*/
 html {
   position: relative;
   min-height: 100%;
 }
 body {
   /* Margin bottom by footer height */
+  /* Background image taken from google images, found on this link https://www.123rf.com/photo_7725498_background-for-movie-theme.html*/
   margin-bottom: 60px;
   background-image: url("background.jpg");
 

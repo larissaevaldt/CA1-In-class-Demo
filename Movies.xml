@@ -2,16 +2,6 @@
 <movies_menu>
   <section name="DVD/Blu-ray Releases">
     <movie>
-      <title>Don't let go</title>
-      <year>2019</year>
-      <duration>103 min</duration>
-      <genre>Drama, Horror, Mystery</genre>
-      <director>Jacob Estes</director>
-      <stars>Alfred Molina, Storm Reid, David Oyelowo, Mykelti Williamson</stars>
-      <rating>5,9</rating>
-      <price>18.79</price>
-    </movie>
-    <movie>
       <title>Good Boys</title>
       <year>2019</year>
       <duration>90 min</duration>
